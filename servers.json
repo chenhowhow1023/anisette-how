@@ -59,7 +59,11 @@
     {
       "name": "ethxn's omnisette server :3",
       "address": "https://omni.ethxn.xyz"
-    }
+    },
+    {
+    "name": "[chenhowhow's omnisette server]",   //doesn't really matter unless you're sharing this server list with someone else
+    "address": "[ani.chenhowhow.com]"
+    },
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
